@@ -1,4 +1,4 @@
 date
 pwd
-echo "this is fom pollscm"
+echo "this is fom pollscm "
 date
